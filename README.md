@@ -1,9 +1,9 @@
 # Python Task 01 - System Information & Basic Automation
 
-## Student Information
 
-**Name:** Shalini Sengar
-**Internship:** Python Summer Internship
+
+**Date:** June 06, 2026
+**Intern:** Shalini Sengar
 
 ---
 
